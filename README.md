@@ -8,66 +8,50 @@ software-design-and-architecture-stack-headstart
 
 See [README.md](./100/README.md)
 
-## 200 - Clean Code
+## 200 - Programming Paradigms
 
 See [README.md](./200/README.md)
 
-## 300 - Clean Code
+## 300 - Procedural Programming
 
 See [README.md](./300/README.md)
 
-## 400 - Clean Code
+## 400 - Object-Oriented Programming
 
 See [README.md](./400/README.md)
 
-## 500 - Clean Code
+## 500 - Functional Programming
 
 See [README.md](./500/README.md)
 
-## 600 - Clean Code
+## 600 - Design Principles
 
 See [README.md](./600/README.md)
 
-## 700 - Clean Code
+## 700 - Design Patterns
 
 See [README.md](./700/README.md)
 
-## 800 - Clean Code
+## 800 - Architectural Principles
 
 See [README.md](./800/README.md)
 
-## 900 - Clean Code
+## 900 - Architectural Styles
 
 See [README.md](./900/README.md)
 
-## 1000 - Clean Code
+## 1000 - Architectural Patterns
 
 See [README.md](./1000/README.md)
 
-## 1100 - Clean Code
+## 1100 - Enterprise Patterns
 
 See [README.md](./1100/README.md)
 
-## 1200 - Clean Code
+## 1200 - On-Premise
 
 See [README.md](./1200/README.md)
 
-## 1300 - Clean Code
+## 1300 - In Cloud
 
 See [README.md](./1300/README.md)
-
-## 1400 - Clean Code
-
-See [README.md](./1400/README.md)
-
-## 1500 - Clean Code
-
-See [README.md](./1500/README.md)
-
-## 1600 - Clean Code
-
-See [README.md](./1600/README.md)
-
-## 1700 - Clean Code
-
-See [README.md](./1700/README.md)
