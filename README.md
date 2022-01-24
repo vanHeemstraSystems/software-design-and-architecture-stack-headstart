@@ -4,6 +4,8 @@ software-design-and-architecture-stack-headstart
 
 ![Screenshot 2021-10-18 101339](https://user-images.githubusercontent.com/12828104/137693771-7f8c9897-c87e-41c1-b0c1-126edfc2ffe3.png)
 
+![Software Design   Architecture Stack](https://user-images.githubusercontent.com/12828104/150800488-b544e532-fa08-4562-b46e-d61e7a1ece28.png)
+
 ## 100 - Clean Code
 
 See [README.md](./100/README.md)
