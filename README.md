@@ -50,7 +50,7 @@ See [README.md](./1000/README.md)
 
 See [README.md](./1100/README.md)
 
-## 1200 - On-Premises
+## 1200 - On Premises
 
 See [README.md](./1200/README.md)
 
