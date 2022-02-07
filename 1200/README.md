@@ -1,3 +1,3 @@
-## 1200 - On-Premises
+## 1200 - On Premises
 
 More ...
