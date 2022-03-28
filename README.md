@@ -10,23 +10,23 @@ software-design-and-architecture-stack-headstart
 
 | Group   |      Member      |  Software |
 |----------|:-------------:|------:|
-| GUIs |  - | ReactJS |
+| GUIs |  - | - [ReactJS](https://github.com/facebook/react) |
 | APIs |  - |   -     |
-| Queuing | Message Queuing | - RabbitMQ |
+| Queuing | Message Queuing | - [RabbitMQ](https://github.com/rabbitmq/rabbitmq-server) |
 | Microservices | Business Applications Management (BAM) | - [Budibase](https://github.com/Budibase/budibase) |
-| Microservices | Business Process Management (BPM) | - Camunda |
+| Microservices | Business Process Management (BPM) | - [Camunda](https://github.com/camunda/camunda-bpm-platform) |
 | Microservices | Chat | - [Chat-Server](https://github.com/exo-docker/exo-chat-server) |
-| Microservices | Content Management Systems (CMS) | - Strapi |
+| Microservices | Content Management Systems (CMS) | - [Strapi](https://github.com/strapi/strapi) |
 | Microservices | Infrastructure Management (IM) | - [Clutch](https://github.com/lyft/clutch) |
 | Pipelines | - |  - |
 | Databases | Cloud Databases | - |
 | Databases | Columnar Databases | - |
 | Databases | Graph Databases | - |
 | Databases | Hierarchical Databases | - |
-| Databases | Key-Value Databases | - Redis |
-| Databases | NoSQL Databases | MongoDB |
-| Databases | Object-Oriented Databases | - MinIO |
-| Databases | Relational Databases | - PostgreSQL |
+| Databases | Key-Value Databases | - [Redis](https://github.com/redis/redis) |
+| Databases | NoSQL Databases | - [MongoDB](https://github.com/mongodb/mongo) |
+| Databases | Object-Oriented Databases | - [MinIO](https://github.com/minio/minio) |
+| Databases | Relational Databases | - [PostgreSQL](https://github.com/postgres/postgres) |
 | Databases | Time-Series Databases | - |
 | Functions | - | FaaS |
 
