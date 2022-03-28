@@ -12,10 +12,10 @@ software-design-and-architecture-stack-headstart
 |----------|:-------------:|------:|
 | GUIs |  - | ReactJS |
 | APIs |  - |   -     |
-| Queuing | Message Queuing | RabbitMQ |
+| Queuing | Message Queuing | - RabbitMQ |
 | Microservices | Business Applications Management (BAM) | - Budibase |
 | Microservices | Business Process Management (BPM) | - Camunda |
-| Microservices | Chat | - Chat-Server |
+| Microservices | Chat | - [Chat-Server](https://github.com/exo-docker/exo-chat-server) |
 | Microservices | Content Management Systems (CMS) | - Strapi |
 | Microservices | Infrastructure Management (IM) | - Clutch |
 | Pipelines | - |  - |
@@ -23,10 +23,10 @@ software-design-and-architecture-stack-headstart
 | Databases | Columnar Databases | - |
 | Databases | Graph Databases | - |
 | Databases | Hierarchical Databases | - |
-| Databases | Key-Value Databases | Redis |
+| Databases | Key-Value Databases | - Redis |
 | Databases | NoSQL Databases | MongoDB |
-| Databases | Object-Oriented Databases | MinIO |
-| Databases | Relational Databases | PostgreSQL |
+| Databases | Object-Oriented Databases | - MinIO |
+| Databases | Relational Databases | - PostgreSQL |
 | Databases | Time-Series Databases | - |
 | Functions | - | FaaS |
 
