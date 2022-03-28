@@ -9,7 +9,7 @@ software-design-and-architecture-stack-headstart
 ![Software Design   Architecture Stack 003](https://user-images.githubusercontent.com/12828104/160409530-ada7d409-818b-4176-8ac2-32e096dbf524.png)
 
 | Group   |      Member      |  Software |
-|----------|:-------------:|------:|
+|----------|:-------------|------:|
 | GUIs |  - | - [ReactJS](https://github.com/facebook/react) |
 | APIs |  - |   -     |
 | Queuing | Message Queuing | - [RabbitMQ](https://github.com/rabbitmq/rabbitmq-server) |
@@ -28,7 +28,7 @@ software-design-and-architecture-stack-headstart
 | Databases | Object-Oriented Databases | - [MinIO](https://github.com/minio/minio) |
 | Databases | Relational Databases | - [PostgreSQL](https://github.com/postgres/postgres) |
 | Databases | Time-Series Databases | - |
-| Functions | - | FaaS |
+| Functions | - | - [FaaS](https://github.com/openfaas/faas) |
 
 ## 100 - Clean Code
 
