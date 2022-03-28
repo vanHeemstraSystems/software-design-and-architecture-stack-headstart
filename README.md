@@ -8,6 +8,12 @@ software-design-and-architecture-stack-headstart
 
 ![Software Design   Architecture Stack 003](https://user-images.githubusercontent.com/12828104/160409530-ada7d409-818b-4176-8ac2-32e096dbf524.png)
 
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
 ## 100 - Clean Code
 
 See [README.md](./100/README.md)
