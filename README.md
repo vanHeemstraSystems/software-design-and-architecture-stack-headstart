@@ -17,7 +17,7 @@ software-design-and-architecture-stack-headstart
 | Microservices | Business Process Management (BPM) | - Camunda |
 | Microservices | Chat | - [Chat-Server](https://github.com/exo-docker/exo-chat-server) |
 | Microservices | Content Management Systems (CMS) | - Strapi |
-| Microservices | Infrastructure Management (IM) | - Clutch |
+| Microservices | Infrastructure Management (IM) | - [Clutch](https://github.com/lyft/clutch) |
 | Pipelines | - |  - |
 | Databases | Cloud Databases | - |
 | Databases | Columnar Databases | - |
