@@ -8,11 +8,27 @@ software-design-and-architecture-stack-headstart
 
 ![Software Design   Architecture Stack 003](https://user-images.githubusercontent.com/12828104/160409530-ada7d409-818b-4176-8ac2-32e096dbf524.png)
 
-| Tables   |      Are      |  Cool |
+| Group   |      Member      |  Software |
 |----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| GUIs |  - | ReactJS |
+| APIs |  - |   -     |
+| Queuing | Message Queuing | RabbitMQ |
+| Microservices | Business Applications Management (BAM) | - Budibase |
+| Microservices | Business Process Management (BPM) | - Camunda |
+| Microservices | Chat | - Chat-Server |
+| Microservices | Content Management Systems (CMS) | - Strapi |
+| Microservices | Infrastructure Management (IM) | - Clutch |
+| Pipelines | - |  - |
+| Databases | Cloud Databases | - |
+| Databases | Columnar Databases | - |
+| Databases | Graph Databases | - |
+| Databases | Hierarchical Databases | - |
+| Databases | Key-Value Databases | Redis |
+| Databases | NoSQL Databases | MongoDB |
+| Databases | Object-Oriented Databases | MinIO |
+| Databases | Relational Databases | PostgreSQL |
+| Databases | Time-Series Databases | - |
+| Functions | - | FaaS |
 
 ## 100 - Clean Code
 
