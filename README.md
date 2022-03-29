@@ -28,7 +28,7 @@ software-design-and-architecture-stack-headstart
 | [Databases](https://github.com/vanHeemstraSystems/databases-headstart) | Object-Oriented Databases | - [MinIO](https://github.com/minio/minio) |
 | [Databases](https://github.com/vanHeemstraSystems/databases-headstart) | Relational Databases | - [PostgreSQL](https://github.com/postgres/postgres) |
 | [Databases](https://github.com/vanHeemstraSystems/databases-headstart) | Time-Series Databases | - |
-| Functions | - | - [FaaS](https://github.com/openfaas/faas) |
+| [Functions](https://github.com/vanHeemstraSystems/functions) | - | - [FaaS](https://github.com/openfaas/faas) |
 
 ## 100 - Clean Code
 
