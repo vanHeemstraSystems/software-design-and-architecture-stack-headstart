@@ -30,6 +30,8 @@ software-design-and-architecture-stack-headstart
 | [Databases](https://github.com/vanHeemstraSystems/databases-headstart) | Time-Series Databases | - |
 | [Functions](https://github.com/vanHeemstraSystems/functions) | - | - [FaaS](https://github.com/openfaas/faas) |
 
+Following [Open Container Initiative - OCI](https://www.padok.fr/en/blog/container-docker-oci) as the standard.
+
 ## 100 - Clean Code
 
 See [README.md](./100/README.md)
