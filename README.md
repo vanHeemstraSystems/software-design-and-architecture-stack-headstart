@@ -22,6 +22,7 @@ Order-to-Delivery
 | [Microservices](https://github.com/vanHeemstraSystems/microservices) | [Chat](https://github.com/vanHeemstraSystems/exo-chat-headstart) | - [Chat-Server](https://github.com/exo-docker/exo-chat-server) |
 | [Microservices](https://github.com/vanHeemstraSystems/microservices) | [Content Management Systems (CMS)](https://github.com/vanHeemstraSystems/content-management-systems) | - [Strapi](https://github.com/strapi/strapi) |
 | [Microservices](https://github.com/vanHeemstraSystems/microservices) | [Infrastructure Management (IM)](https://github.com/vanHeemstraSystems/infrastructure-management) | - [Clutch](https://github.com/lyft/clutch)<br>- [Portainer](https://github.com/portainer/portainer) |
+| [Microservices](https://github.com/vanHeemstraSystems/microservices) | [Knowledge Management (KM)](https://github.com/vanHeemstraSystems/knowledge-management) | - [Renato](https://github.com/vanHeemstraSystems/raneto-headstart) |
 | [Pipelines](https://github.com/vanHeemstraSystems/pipelines) | - |  - |
 | [Databases](https://github.com/vanHeemstraSystems/databases-headstart) | Cloud Databases | - |
 | [Databases](https://github.com/vanHeemstraSystems/databases-headstart) | Columnar Databases | - |
