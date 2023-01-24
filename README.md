@@ -10,7 +10,9 @@ software-design-and-architecture-stack-headstart
 
 Order-to-Delivery
 
-![Software Design   Architecture Stack 003](https://user-images.githubusercontent.com/12828104/160409530-ada7d409-818b-4176-8ac2-32e096dbf524.png)
+![Software Design   Architecture Stack - Layers](https://user-images.githubusercontent.com/1499433/214314397-ce68d092-7e27-4d47-be84-b2eedfa07457.png)
+
+Layers
 
 | Group   |      Member      |  Software |
 |----------|:-------------|------:|
