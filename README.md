@@ -2,40 +2,89 @@ software-design-and-architecture-stack-headstart
 
 # Software Design &amp; Architecture Stack - Headstart
 
-![Screenshot 2021-10-18 101339](https://user-images.githubusercontent.com/12828104/137693771-7f8c9897-c87e-41c1-b0c1-126edfc2ffe3.png)
+Based on "How to Learn Software Design and Architecture | The Full-stack Software Design & Architecture Map" at https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/
 
-![Software Design   Architecture Stack 002](https://user-images.githubusercontent.com/12828104/152769099-a17e3d32-e19f-446b-aaff-c27be0dea91a.png)
+![65833569-bb34fc00-e29f-11e9-8516-79cbd9f8f07b](https://user-images.githubusercontent.com/12828104/130451222-5966ad39-0cb0-40ce-af1f-678be940c449.png)
 
-![Picture1](https://user-images.githubusercontent.com/12828104/160634454-7b3c9b9a-b7c4-41df-8e28-8829b1d795d7.png)
+Redesigned by Willem van Heemstra:
 
-Order-to-Delivery
+![Screenshot 2021-08-23 150136](https://user-images.githubusercontent.com/12828104/130453087-c0f3c352-fe86-4286-a7b5-62bfd7345982.png)
 
-![Software Design   Architecture Stack - Layers](https://user-images.githubusercontent.com/1499433/214314397-ce68d092-7e27-4d47-be84-b2eedfa07457.png)
+See also: Commands and Events:
+
+https://github.com/vanHeemstraSystems/commands-and-events
+
+![Software Design   Architecture Stack - Layers](https://user-images.githubusercontent.com/1499433/214315023-a9a4a595-07f7-4d45-9fa2-ec45a81cd429.png)
 
 Layers
 
-| Group   |      Member      |  Software |
-|----------|:-------------|------:|
-| [GUIs](https://github.com/vanHeemstraSystems/guis) |  - | - [ReactJS](https://github.com/facebook/react) |
-| [APIs](https://github.com/vanHeemstraSystems/apis) |  - |   -     |
-| [Queuing](https://github.com/vanHeemstraSystems/queuing) | Message Queuing | - [RabbitMQ](https://github.com/rabbitmq/rabbitmq-server) |
-| [Microservices](https://github.com/vanHeemstraSystems/microservices) | [Business Applications Management (BAM)](https://github.com/vanHeemstraSystems/business-applications-management) | - [Budibase](https://github.com/Budibase/budibase) |
-| [Microservices](https://github.com/vanHeemstraSystems/microservices) | [Business Process Management (BPM)](https://github.com/vanHeemstraSystems/business-process-management) | - [Camunda](https://github.com/camunda/camunda-bpm-platform) |
-| [Microservices](https://github.com/vanHeemstraSystems/microservices) | [Chat](https://github.com/vanHeemstraSystems/exo-chat-headstart) | - [Chat-Server](https://github.com/exo-docker/exo-chat-server) |
-| [Microservices](https://github.com/vanHeemstraSystems/microservices) | [Content Management Systems (CMS)](https://github.com/vanHeemstraSystems/content-management-systems) | - [Strapi](https://github.com/strapi/strapi) |
-| [Microservices](https://github.com/vanHeemstraSystems/microservices) | [Infrastructure Management (IM)](https://github.com/vanHeemstraSystems/infrastructure-management) | - [Clutch](https://github.com/lyft/clutch)<br>- [Portainer](https://github.com/portainer/portainer) |
-| [Microservices](https://github.com/vanHeemstraSystems/microservices) | [Knowledge Management (KM)](https://github.com/vanHeemstraSystems/knowledge-management) | - [Renato](https://github.com/vanHeemstraSystems/raneto-headstart) |
-| [Pipelines](https://github.com/vanHeemstraSystems/pipelines) | - |  - |
-| [Databases](https://github.com/vanHeemstraSystems/databases-headstart) | Cloud Databases | - |
-| [Databases](https://github.com/vanHeemstraSystems/databases-headstart) | Columnar Databases | - |
-| [Databases](https://github.com/vanHeemstraSystems/databases-headstart) | Graph Databases | - |
-| [Databases](https://github.com/vanHeemstraSystems/databases-headstart) | Hierarchical Databases | - |
-| [Databases](https://github.com/vanHeemstraSystems/databases-headstart) | Key-Value Databases | - [Redis](https://github.com/redis/redis) |
-| [Databases](https://github.com/vanHeemstraSystems/databases-headstart) | NoSQL Databases | - [MongoDB](https://github.com/mongodb/mongo) |
-| [Databases](https://github.com/vanHeemstraSystems/databases-headstart) | Object-Oriented Databases | - [MinIO](https://github.com/minio/minio) |
-| [Databases](https://github.com/vanHeemstraSystems/databases-headstart) | Relational Databases | - [PostgreSQL](https://github.com/postgres/postgres) |
-| [Databases](https://github.com/vanHeemstraSystems/databases-headstart) | Time-Series Databases | - |
-| [Functions](https://github.com/vanHeemstraSystems/functions) | - | - [FaaS](https://github.com/openfaas/faas) |
+**NOTE**: For each landing page we are using [Homer](https://github.com/bastienwirtz/homer), started by NGinX as a reverse Proxy.
+
+| GUIS  | Description |
+| ------------- | ------------- |
+| Artifact Management (ARM) | - [Docker Registry Frontend](https://github.com/vanHeemstraSystems/strapi-head-of-cms-headstart](https://hub.docker.com/r/konradkleine/docker-registry-frontend/)) |
+| Content Management (COM) | - [Gatsby](https://github.com/vanHeemstraSystems/gatsby-headstart) </br> - [Strapi](https://github.com/vanHeemstraSystems/strapi-head-of-cms-headstart) |
+| Graphical Interface Management (GIM) | - [Retool](https://github.com/vanHeemstraSystems/graphical-interface-management) |
+| Process Mining Management (PMM) | - [Gatsby](https://github.com/vanHeemstraSystems/gatsby-headstart) </br> - [Strapi](https://github.com/vanHeemstraSystems/strapi-head-of-cms-headstart) |
+| Value Stream Management (VSM) | - [Flow Framework](https://github.com/vanHeemstraSystems/value-stream-management-gui) |
+
+| APIS  | Description |
+| ------------- | ------------- |
+| ...  | ...  |
+
+| MICROSERVICES  | Description |
+| ------------- | ------------- |
+| Artifact Management (ARM) | - [Harbor](https://github.com/vanHeemstraSystems/harbor-headstart) <br> - [Docker Registry](https://docs.docker.com/registry/) |
+| Automation Management (ATM) | - [Home Assistant](https://github.com/vanHeemstraSystems/automation-management) |
+| Budget Management (BUM) | - [You Need A Budget](https://github.com/vanHeemstraSystems/budget-management) |
+| Business Applications Management (BAM) | - [Budibase](https://github.com/vanHeemstraSystems/budibase-headstart) |
+| Business Process Management (BPM) | - [Camunda](https://github.com/vanHeemstraSystems/camunda-headstart) |
+| Chat Management (CHM) | - [Chat-Server](https://github.com/vanHeemstraSystems/exo-chat-headstart) |
+| Content Management (CTM) | - [Strapi](https://github.com/vanHeemstraSystems/strapi-headless-cms-headstart) |
+| Decisions Management (DCM) | - [Ella](https://github.com/vanHeemstraSystems/decisions-management) |
+| Deployment Management (DPM) | - [Plutora](https://github.com/vanHeemstraSystems/deployment-management) |
+| Document Management (DOM) | - [BookStack](https://github.com/vanHeemstraSystems/document-management) |
+| Domain Naming Management (DNM) | - [Bind](https://github.com/vanHeemstraSystems/domain-naming-management) |
+| Draw Management (DRM) | - [Excalidraw](https://github.com/vanHeemstraSystems/draw-management) <br> - [Excalidraw Animate](https://github.com/vanHeemstraSystems/draw-management) |
+| Infrastructure Management (ISM) | - [Clutch](https://github.com/vanHeemstraSystems/clutch-headstart) |
+| Integration Management (IGM) | - [Pipedream](https://github.com/vanHeemstraSystems/integration-management) |
+| Knowledge Management (KLM) | - [Raneto](https://github.com/vanHeemstraSystems/raneto-headstart) |
+| Microservices Management (MSM) | - [Ortelius](https://github.com/vanHeemstraSystems/ortelius-headstart) |
+| Mindmap Management (MMM) | - [Cytoscape](https://github.com/vanHeemstraSystems/mindmap-management) |
+| Modeling Management (MDM) | - [Bricklink Studio](https://github.com/vanHeemstraSystems/modeling-management) |
+| Monitoring Management (MOM) | - [Percona](https://github.com/vanHeemstraSystems/monitoring-management) <br> - [Metrist](https://github.com/vanHeemstraSystems/monitoring-management) |
+| Natural Language Management (NLM) | - [Compromise](https://github.com/vanHeemstraSystems/natural-language-management) |
+| Network Management (NWM) | - [Topolograph](https://github.com/vanHeemstraSystems/topolograph-headstart) |
+| Note Management (NOM) | - [Obsidian](https://github.com/vanHeemstraSystems/note-management) |
+| Office Management (OFM) | - [OfficeLife](https://github.com/vanHeemstraSystems/office-management) |
+| Order Management (ODM) | - [Strapi](https://github.com/vanHeemstraSystems/order-management) |
+| Performance Management (PFM) | - [Scouter](https://github.com/vanHeemstraSystems/performance-management) |
+| Process Mining Management (PMM) | - [ProM](https://github.com/vanHeemstraSystems/prom-headstart) |
+| Project Management (PJM) | - [Redmine](https://github.com/vanHeemstraSystems/redmine-headstart) |
+| Relationship Management (RSM) | - [Monica](https://github.com/vanHeemstraSystems/relationship-management) |
+| Release Management (RLM) | - [Plutora](https://github.com/vanHeemstraSystems/release-management) |
+| Requirements Management (RQM) | - [OpenReq](https://github.com/vanHeemstraSystems/openreq-headstart) <br> - [Requirements Management](https://github.com/vanHeemstraSystems/requirements-management) |
+| Sales Management (SLM) | - [Close](https://github.com/vanHeemstraSystems/sales-management) |
+| Test Management (TSM) | - [Robot Framework](https://github.com/vanHeemstraSystems/test-management) |
+| Time Management (TMM) | - [Time Management](https://github.com/vanHeemstraSystems/time-management) |
+| Value Stream Management (VSM) | - [Flow Framework](https://github.com/vanHeemstraSystems/value-stream-management) |
+| Visualization Management (VZM) | - [Flourish](https://github.com/vanHeemstraSystems/visualization-management) |
+
+| QUEUING  | Description |
+| ------------- | ------------- |
+| ...  | ...  |
+
+| DATABASES  | Description |
+| ------------- | ------------- |
+| Relational Databases (RLDB)  | - [PostgreSQL](https://github.com/vanHeemstraSystems/postgress) <br> - [MySQL](https://github.com/vanHeemstraSystems/mysql) <br> - [MariaDB](https://github.com/vanHeemstraSystems/mariadb)|
+
+| PIPELINES  | Description |
+| ------------- | ------------- |
+| Pipeline Management (PLMM) | - [n8n](https://github.com/vanHeemstraSystems/pipeline-management)|
+
+| FUNCTIONS  | Description |
+| ------------- | ------------- |
+| ...  | ...  |
 
 Following [Open Container Initiative - OCI](https://www.padok.fr/en/blog/container-docker-oci) as the standard.
 
