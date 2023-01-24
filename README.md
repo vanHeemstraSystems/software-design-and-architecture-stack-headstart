@@ -41,6 +41,8 @@ Layers
 | Business Process Management (BPM) | - [Camunda](https://github.com/vanHeemstraSystems/camunda-headstart) |
 | Chat Management (CHM) | - [Chat-Server](https://github.com/vanHeemstraSystems/exo-chat-headstart) |
 | Content Management (CTM) | - [Strapi](https://github.com/vanHeemstraSystems/strapi-headless-cms-headstart) |
+| Continuous Deployment Management (CDM) | - [Earthly](https://github.com/vanHeemstraSystems/continuous-deployment-management) |
+| Continuous Integration Management (CIM) | - [Earthly](https://github.com/vanHeemstraSystems/continuous-integration-management) |
 | Decisions Management (DCM) | - [Ella](https://github.com/vanHeemstraSystems/decisions-management) |
 | Deployment Management (DPM) | - [Plutora](https://github.com/vanHeemstraSystems/deployment-management) |
 | Document Management (DOM) | - [BookStack](https://github.com/vanHeemstraSystems/document-management) |
