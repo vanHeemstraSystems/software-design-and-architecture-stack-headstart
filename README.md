@@ -61,6 +61,7 @@ Layers
 | Office Management (OFM) | - [OfficeLife](https://github.com/vanHeemstraSystems/office-management) |
 | Order Management (ODM) | - [Strapi](https://github.com/vanHeemstraSystems/order-management) |
 | Performance Management (PFM) | - [Scouter](https://github.com/vanHeemstraSystems/performance-management) |
+| Problem Solving Management (PSM) | - [Dragon Master](https://github.com/vanHeemstraSystems/problem-solving-management) |
 | Process Mining Management (PMM) | - [ProM](https://github.com/vanHeemstraSystems/prom-headstart) |
 | Project Management (PJM) | - [Redmine](https://github.com/vanHeemstraSystems/redmine-headstart) |
 | Relationship Management (RSM) | - [Monica](https://github.com/vanHeemstraSystems/relationship-management) |
