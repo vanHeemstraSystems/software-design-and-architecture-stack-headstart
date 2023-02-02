@@ -14,7 +14,7 @@ See also: Commands and Events:
 
 https://github.com/vanHeemstraSystems/commands-and-events
 
-![Software Design   Architecture Stack - Layers](https://user-images.githubusercontent.com/1499433/214701169-a826d14f-d48c-4394-9d2f-dd3a53302640.png)
+![Software Design   Architecture Stack - Layers](https://user-images.githubusercontent.com/1499433/216347188-2996b7fd-6832-4beb-bbf4-38ecfde93ae0.png)
 
 Layers
 
@@ -48,6 +48,7 @@ Layers
 | Document Management (DOM) | - [BookStack](https://github.com/vanHeemstraSystems/document-management) |
 | Domain Naming Management (DNM) | - [Bind](https://github.com/vanHeemstraSystems/domain-naming-management) |
 | Draw Management (DRM) | - [Excalidraw](https://github.com/vanHeemstraSystems/draw-management) <br> - [Excalidraw Animate](https://github.com/vanHeemstraSystems/draw-management) |
+| Financial Management (FNM) | - [Actual](https://github.com/vanHeemstraSystems/financial-management) |
 | Infrastructure Management (ISM) | - [Clutch](https://github.com/vanHeemstraSystems/clutch-headstart) |
 | Integration Management (IGM) | - [Pipedream](https://github.com/vanHeemstraSystems/integration-management) |
 | Knowledge Management (KLM) | - [Raneto](https://github.com/vanHeemstraSystems/raneto-headstart) |
