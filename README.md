@@ -14,7 +14,7 @@ See also: Commands and Events:
 
 https://github.com/vanHeemstraSystems/commands-and-events
 
-![Software Design   Architecture Stack - Layers](https://user-images.githubusercontent.com/1499433/219664631-a41cfbfa-a44c-4159-af81-7dda7396993a.png)
+![Software Design   Architecture Stack - Layers](https://user-images.githubusercontent.com/1499433/229119428-5a38f87b-28bd-41f4-85b2-ec751016a6ed.png)
 
 Layers
 
@@ -45,7 +45,7 @@ Layers
 | Continuous Integration Management (CIM) | - [Earthly](https://github.com/vanHeemstraSystems/continuous-integration-management) |
 | Decisions Management (DCM) | - [Ella](https://github.com/vanHeemstraSystems/decisions-management) |
 | Deployment Management (DPM) | - [Plutora](https://github.com/vanHeemstraSystems/deployment-management) |
-| Document Management (DOM) | - [BookStack](https://github.com/vanHeemstraSystems/document-management) |
+| Document Management (DOM) | - [Atom](https://github.com/vanHeemstraSystems/document-management) <br> - [BookStack](https://github.com/vanHeemstraSystems/document-management) |
 | Domain Naming Management (DNM) | - [Bind](https://github.com/vanHeemstraSystems/domain-naming-management) |
 | Draw Management (DRM) | - [Excalidraw](https://github.com/vanHeemstraSystems/draw-management) <br> - [Excalidraw Animate](https://github.com/vanHeemstraSystems/draw-management) |
 | Financial Management (FNM) | - [Actual](https://github.com/vanHeemstraSystems/financial-management) |
