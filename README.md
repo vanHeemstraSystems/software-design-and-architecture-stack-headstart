@@ -46,6 +46,7 @@ Layers
 | Document Management (DOM) | - [Atom](https://github.com/vanHeemstraSystems/document-management) <br> - [BookStack](https://github.com/vanHeemstraSystems/document-management) |
 | Domain Naming Management (DNM) | - [Bind](https://github.com/vanHeemstraSystems/domain-naming-management) |
 | Draw Management (DRM) | - [Excalidraw](https://github.com/vanHeemstraSystems/draw-management) <br> - [Excalidraw Animate](https://github.com/vanHeemstraSystems/draw-management) |
+| Facts Management (FCM) | - [Sigma](https://github.com/vanHeemstraSystems/facts-management) |
 | Financial Management (FNM) | - [Actual](https://github.com/vanHeemstraSystems/financial-management) |
 | Infrastructure Management (ISM) | - [Clutch](https://github.com/vanHeemstraSystems/clutch-headstart) |
 | Integration Management (IGM) | - [Pipedream](https://github.com/vanHeemstraSystems/integration-management) |
