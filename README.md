@@ -14,7 +14,7 @@ See also: Commands and Events:
 
 https://github.com/vanHeemstraSystems/commands-and-events
 
-![Software Design   Architecture Stack - Layers](https://user-images.githubusercontent.com/1499433/229119428-5a38f87b-28bd-41f4-85b2-ec751016a6ed.png)
+![Software Design   Architecture Stack - Layers](https://user-images.githubusercontent.com/1499433/230602553-5cdb14a1-4b2c-43c6-9e3f-249c7801dc19.png)
 
 Layers
 
