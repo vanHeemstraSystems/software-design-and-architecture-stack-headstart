@@ -56,7 +56,7 @@ Layers
 | Modeling Management (MDM) | - [Bricklink Studio](https://github.com/vanHeemstraSystems/modeling-management) |
 | Monitoring Management (MOM) | - [Percona](https://github.com/vanHeemstraSystems/monitoring-management) <br> - [Metrist](https://github.com/vanHeemstraSystems/monitoring-management) |
 | Natural Language Management (NLM) | - [Compromise](https://github.com/vanHeemstraSystems/natural-language-management) |
-| Network Management (NWM) | - [Topolograph](https://github.com/vanHeemstraSystems/topolograph-headstart) |
+| Network Management (NWM) | - [Topolograph](https://github.com/vanHeemstraSystems/topolograph-headstart) <br> - [Cytoscape](https://github.com/vanHeemstraSystems/network-management) |
 | Note Management (NOM) | - [Obsidian](https://github.com/vanHeemstraSystems/note-management) |
 | Office Management (OFM) | - [OfficeLife](https://github.com/vanHeemstraSystems/office-management) |
 | Order Management (ODM) | - [Strapi](https://github.com/vanHeemstraSystems/order-management) |
