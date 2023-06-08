@@ -12,7 +12,7 @@ See also: Commands and Events:
 
 https://github.com/vanHeemstraSystems/commands-and-events
 
-![Software Design   Architecture Stack - Layers](https://github.com/vanHeemstraSystems/software-design-and-architecture-stack-headstart/assets/1499433/c7218f8f-2fd7-4252-a0cc-c3aee0a7d358)
+![Software Design   Architecture Stack - Layers](https://github.com/vanHeemstraSystems/software-design-and-architecture-stack-headstart/assets/1499433/b1dee5f3-6be9-46c6-9893-e05024214da0)
 
 Layers
 
@@ -68,6 +68,7 @@ Layers
 | Release Management (RLM) | - [Plutora](https://github.com/vanHeemstraSystems/release-management) |
 | Requirements Management (RQM) | - [OpenReq](https://github.com/vanHeemstraSystems/openreq-headstart) <br> - [Requirements Management](https://github.com/vanHeemstraSystems/requirements-management) |
 | Sales Management (SLM) | - [Close](https://github.com/vanHeemstraSystems/sales-management) |
+| Task Management (TKM) | - [Super Productivity](https://github.com/vanHeemstraSystems/task-management) |
 | Test Management (TSM) | - [Robot Framework](https://github.com/vanHeemstraSystems/test-management) |
 | Time Management (TMM) | - [Time Management](https://github.com/vanHeemstraSystems/time-management) |
 | Value Stream Management (VSM) | - [Flow Framework](https://github.com/vanHeemstraSystems/value-stream-management) |
