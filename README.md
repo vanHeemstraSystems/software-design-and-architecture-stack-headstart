@@ -12,7 +12,7 @@ See also: Commands and Events:
 
 https://github.com/vanHeemstraSystems/commands-and-events
 
-![Software Design   Architecture Stack - Layers](https://github.com/vanHeemstraSystems/software-design-and-architecture-stack-headstart/assets/1499433/b1dee5f3-6be9-46c6-9893-e05024214da0)
+![Software Design   Architecture Stack - Layers](https://github.com/vanHeemstraSystems/software-design-and-architecture-stack-headstart/assets/1499433/21fcbfb1-e018-4e80-9f9d-2ee67c873f35)
 
 Layers
 
@@ -51,6 +51,7 @@ Layers
 | Infrastructure Management (ISM) | - [Clutch](https://github.com/vanHeemstraSystems/clutch-headstart) |
 | Integration Management (IGM) | - [Pipedream](https://github.com/vanHeemstraSystems/integration-management) |
 | Knowledge Management (KLM) | - [Raneto](https://github.com/vanHeemstraSystems/raneto-headstart) |
+| Map Management (MPM) | - [JointJS](https://github.com/vanHeemstraSystems/map-management) |
 | Microservices Management (MSM) | - [Ortelius](https://github.com/vanHeemstraSystems/ortelius-headstart) |
 | Mindmap Management (MMM) | - [Cytoscape](https://github.com/vanHeemstraSystems/mindmap-management) |
 | Modeling Management (MDM) | - [Bricklink Studio](https://github.com/vanHeemstraSystems/modeling-management) |
