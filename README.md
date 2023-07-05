@@ -36,6 +36,7 @@ Layers
 | Artifact Management (ARM) | - [Harbor](https://github.com/vanHeemstraSystems/harbor-headstart) <br> - [Docker Registry](https://docs.docker.com/registry/) |
 | Automation Management (ATM) | - [Home Assistant](https://github.com/vanHeemstraSystems/automation-management) |
 | Budget Management (BUM) | - [You Need A Budget](https://github.com/vanHeemstraSystems/budget-management) |
+| Build Management (BDM) | - [Basel](https://github.com/vanHeemstraSystems/build-management) |
 | Business Applications Management (BAM) | - [Budibase](https://github.com/vanHeemstraSystems/budibase-headstart) |
 | Business Process Management (BPM) | - [Camunda](https://github.com/vanHeemstraSystems/camunda-headstart) <br> - [FormsFlow.ai](https://github.com/vanHeemstraSystems/business-process-management)|
 | Chat Management (CHM) | - [Chat-Server](https://github.com/vanHeemstraSystems/exo-chat-headstart) |
