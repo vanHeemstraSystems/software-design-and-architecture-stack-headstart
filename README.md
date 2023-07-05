@@ -12,7 +12,7 @@ See also: Commands and Events:
 
 https://github.com/vanHeemstraSystems/commands-and-events
 
-![Software Design   Architecture Stack - Layers](https://github.com/vanHeemstraSystems/software-design-and-architecture-stack-headstart/assets/1499433/f785938a-7d9b-4900-8f56-992aacb67906)
+![Software Design   Architecture Stack - Layers](https://github.com/vanHeemstraSystems/software-design-and-architecture-stack-headstart/assets/1499433/b0755504-40e5-4f93-9e7d-aee4e0fb8815)
 
 Layers
 
@@ -63,6 +63,7 @@ Layers
 | Office Management (OFM) | - [OfficeLife](https://github.com/vanHeemstraSystems/office-management) |
 | Order Management (ODM) | - [Strapi](https://github.com/vanHeemstraSystems/order-management) |
 | Performance Management (PFM) | - [Scouter](https://github.com/vanHeemstraSystems/performance-management) |
+| Permission Management (PRM) | - [Permit.io](https://github.com/vanHeemstraSystems/permission-management) |
 | Problem Solving Management (PSM) | - [Dragon Master](https://github.com/vanHeemstraSystems/problem-solving-management) |
 | Process Mining Management (PMM) | - [ProM](https://github.com/vanHeemstraSystems/prom-headstart) |
 | Project Management (PJM) | - [Redmine](https://github.com/vanHeemstraSystems/redmine-headstart) |
