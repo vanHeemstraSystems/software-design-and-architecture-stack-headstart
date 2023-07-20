@@ -12,7 +12,7 @@ See also: Commands and Events:
 
 https://github.com/vanHeemstraSystems/commands-and-events
 
-![Software Design   Architecture Stack - Layers](https://github.com/vanHeemstraSystems/software-design-and-architecture-stack-headstart/assets/1499433/9f207d75-98ae-4fe7-b01d-1a0ab05e0bee)
+![Software Design   Architecture Stack - Layers](https://github.com/vanHeemstraSystems/software-design-and-architecture-stack-headstart/assets/1499433/f56e91b1-bddc-4e13-b6b8-5ef1cf04ada3)
 
 Layers
 
@@ -78,6 +78,7 @@ Layers
 | Time Management (TMM) | - [Time Management](https://github.com/vanHeemstraSystems/time-management) |
 | Value Stream Management (VSM) | - [Flow Framework](https://github.com/vanHeemstraSystems/value-stream-management) |
 | Visualization Management (VZM) | - [Flourish](https://github.com/vanHeemstraSystems/visualization-management) |
+| Workflow Management (WFM) | - [Airflow](https://github.com/vanHeemstraSystems/workflow-management) |
 
 | QUEUING  | Description |
 | ------------- | ------------- |
