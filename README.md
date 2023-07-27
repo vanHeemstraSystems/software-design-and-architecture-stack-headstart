@@ -35,6 +35,7 @@ Layers
 | Animation Management (ANM) | - [Motion Canvas](https://github.com/vanHeemstraSystems/animation-managament) <br> - [Remotion](https://github.com/vanHeemstraSystems/animation-managament) |
 | Artifact Management (ARM) | - [Harbor](https://github.com/vanHeemstraSystems/harbor-headstart) <br> - [Docker Registry](https://docs.docker.com/registry/) |
 | Automation Management (ATM) | - [Home Assistant](https://github.com/vanHeemstraSystems/automation-management) |
+| Bookmark Management (BMM) | - [LinkDing](https://github.com/vanHeemstraSystems/bookmark-management) |
 | Budget Management (BUM) | - [You Need A Budget](https://github.com/vanHeemstraSystems/budget-management) |
 | Build Management (BDM) | - [Basel](https://github.com/vanHeemstraSystems/build-management) |
 | Business Applications Management (BAM) | - [Budibase](https://github.com/vanHeemstraSystems/budibase-headstart) |
@@ -43,6 +44,7 @@ Layers
 | Content Management (CTM) | - [Strapi](https://github.com/vanHeemstraSystems/strapi-headless-cms-headstart) |
 | Continuous Deployment Management (CDM) | - [Earthly](https://github.com/vanHeemstraSystems/continuous-deployment-management) |
 | Continuous Integration Management (CIM) | - [Earthly](https://github.com/vanHeemstraSystems/continuous-integration-management) |
+| Customer Relationship Management (CRM) | - [Twenty](https://github.com/vanHeemstraSystems/customer-relationship-management) |
 | Decisions Management (DCM) | - [Ella](https://github.com/vanHeemstraSystems/decisions-management) |
 | Deployment Management (DPM) | - [Plutora](https://github.com/vanHeemstraSystems/deployment-management) |
 | Document Management (DOM) | - [Atom](https://github.com/vanHeemstraSystems/document-management) <br> - [BookStack](https://github.com/vanHeemstraSystems/document-management) |
