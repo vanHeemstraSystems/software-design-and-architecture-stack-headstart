@@ -66,6 +66,7 @@ Layers
 | Note Management (NOM) | - [Obsidian](https://github.com/vanHeemstraSystems/note-management) |
 | Office Management (OFM) | - [OfficeLife](https://github.com/vanHeemstraSystems/office-management) |
 | Order Management (ODM) | - [Strapi](https://github.com/vanHeemstraSystems/order-management) |
+| Package Management (PKM) | - [Nix](https://github.com/vanHeemstraSystems/package-management) |
 | Performance Management (PFM) | - [Scouter](https://github.com/vanHeemstraSystems/performance-management) |
 | Permission Management (PRM) | - [Permit.io](https://github.com/vanHeemstraSystems/permission-management) |
 | Problem Solving Management (PSM) | - [Dragon Master](https://github.com/vanHeemstraSystems/problem-solving-management) |
