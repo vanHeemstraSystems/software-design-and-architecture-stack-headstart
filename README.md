@@ -12,7 +12,7 @@ See also: Commands and Events:
 
 https://github.com/vanHeemstraSystems/commands-and-events
 
-![Software Design   Architecture Stack - Layers](https://github.com/vanHeemstraSystems/software-design-and-architecture-stack-headstart/assets/1499433/c403b74f-9cbe-481f-a24d-73fee357a406)
+![Software Design   Architecture Stack - Layers](https://github.com/vanHeemstraSystems/software-design-and-architecture-stack-headstart/assets/1499433/23872929-e84b-44d4-a7db-e8a8d2719fb5)
 
 Layers
 
@@ -35,6 +35,7 @@ Layers
 | Animation Management (ANM) | - [Motion Canvas](https://github.com/vanHeemstraSystems/animation-managament) <br> - [Remotion](https://github.com/vanHeemstraSystems/animation-managament) |
 | Artifact Management (ARM) | - [Harbor](https://github.com/vanHeemstraSystems/harbor-headstart) <br> - [Docker Registry](https://docs.docker.com/registry/) |
 | Automation Management (ATM) | - [Home Assistant](https://github.com/vanHeemstraSystems/automation-management) |
+| Bluetooth Management (BTM) | - [Web Bluetooth API](https://github.com/vanHeemstraSystems/bluetooth-management) |
 | Bookmark Management (BMM) | - [LinkDing](https://github.com/vanHeemstraSystems/bookmark-management) |
 | Budget Management (BUM) | - [You Need A Budget](https://github.com/vanHeemstraSystems/budget-management) |
 | Build Management (BDM) | - [Basel](https://github.com/vanHeemstraSystems/build-management) |
