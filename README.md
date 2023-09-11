@@ -12,7 +12,7 @@ See also: Commands and Events:
 
 https://github.com/vanHeemstraSystems/commands-and-events
 
-![Software Design   Architecture Stack - Layers](https://github.com/vanHeemstraSystems/software-design-and-architecture-stack-headstart/assets/1499433/23872929-e84b-44d4-a7db-e8a8d2719fb5)
+![Software Design   Architecture Stack - Layers](https://github.com/vanHeemstraSystems/software-design-and-architecture-stack-headstart/assets/1499433/2d8c3043-e230-4c03-9a34-accd5390d836)
 
 Layers
 
@@ -54,6 +54,7 @@ Layers
 | Facts Management (FCM) | - [Sigma](https://github.com/vanHeemstraSystems/facts-management) |
 | Flow Management (FWM) | - [Sequential Workflow Designer](https://github.com/vanHeemstraSystems/flow-management) |
 | Financial Management (FNM) | - [Actual](https://github.com/vanHeemstraSystems/financial-management) |
+| Human Interface Device Management (HIM) | - [node-hid](https://github.com/vanHeemstraSystems/human-interface-device-management) |
 | Infrastructure Management (ISM) | - [Clutch](https://github.com/vanHeemstraSystems/clutch-headstart) |
 | Integration Management (IGM) | - [Pipedream](https://github.com/vanHeemstraSystems/integration-management) |
 | Knowledge Management (KLM) | - [Raneto](https://github.com/vanHeemstraSystems/raneto-headstart) |
