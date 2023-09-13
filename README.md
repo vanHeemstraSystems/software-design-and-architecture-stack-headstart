@@ -78,6 +78,7 @@ Layers
 | Release Management (RLM) | - [Plutora](https://github.com/vanHeemstraSystems/release-management) |
 | Requirements Management (RQM) | - [OpenReq](https://github.com/vanHeemstraSystems/openreq-headstart) <br> - [Requirements Management](https://github.com/vanHeemstraSystems/requirements-management) |
 | Sales Management (SLM) | - [Close](https://github.com/vanHeemstraSystems/sales-management) |
+| Scene Management (SCM) | - [IFC.js](https://github.com/vanHeemstraSystems/scene-management) |
 | Task Management (TKM) | - [Super Productivity](https://github.com/vanHeemstraSystems/task-management) |
 | Test Management (TSM) | - [Robot Framework](https://github.com/vanHeemstraSystems/test-management) |
 | Time Management (TMM) | - [Time Management](https://github.com/vanHeemstraSystems/time-management) |
