@@ -12,7 +12,7 @@ See also: Commands and Events:
 
 https://github.com/vanHeemstraSystems/commands-and-events
 
-![Software Design   Architecture Stack - Layers](https://github.com/vanHeemstraSystems/software-design-and-architecture-stack-headstart/assets/1499433/2d8c3043-e230-4c03-9a34-accd5390d836)
+![Software Design   Architecture Stack - Layers](https://github.com/vanHeemstraSystems/software-design-and-architecture-stack-headstart/assets/1499433/fcaa2cd2-a12c-4a95-958a-a481975fda11)
 
 Layers
 
