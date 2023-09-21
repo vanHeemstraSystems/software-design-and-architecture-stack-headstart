@@ -80,7 +80,7 @@ Layers
 | Sales Management (SLM) | - [Close](https://github.com/vanHeemstraSystems/sales-management) |
 | Scene Management (SCM) | - [IFC.js](https://github.com/vanHeemstraSystems/scene-management) |
 | Task Management (TKM) | - [Super Productivity](https://github.com/vanHeemstraSystems/task-management) |
-| Test Management (TSM) | - [Robot Framework](https://github.com/vanHeemstraSystems/test-management) <br> -[Serentity/JS](https://github.com/vanHeemstraSystems/test-management) |
+| Test Management (TSM) | - [Robot Framework](https://github.com/vanHeemstraSystems/test-management) <br> - [Serentity/JS](https://github.com/vanHeemstraSystems/test-management) |
 | Time Management (TMM) | - [Time Management](https://github.com/vanHeemstraSystems/time-management) |
 | Value Stream Management (VSM) | - [Flow Framework](https://github.com/vanHeemstraSystems/value-stream-management) |
 | Visualization Management (VZM) | - [Flourish](https://github.com/vanHeemstraSystems/visualization-management) |
