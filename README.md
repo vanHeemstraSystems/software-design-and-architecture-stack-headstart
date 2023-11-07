@@ -84,6 +84,7 @@ Layers
 | Time Management (TMM) | - [Time Management](https://github.com/vanHeemstraSystems/time-management) |
 | Value Stream Management (VSM) | - [Flow Framework](https://github.com/vanHeemstraSystems/value-stream-management) |
 | Visualization Management (VZM) | - [Flourish](https://github.com/vanHeemstraSystems/visualization-management) |
+| web Server Management (WSM) | - [Caddy Server](https://github.com/vanHeemstraSystems/web-server-management) |
 | Workflow Management (WFM) | - [Airflow](https://github.com/vanHeemstraSystems/workflow-management) |
 
 | QUEUING  | Description |
