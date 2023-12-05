@@ -82,7 +82,7 @@ Layers
 | Task Management (TKM) | - [Super Productivity](https://github.com/vanHeemstraSystems/task-management) |
 | Test Management (TSM) | - [Robot Framework](https://github.com/vanHeemstraSystems/test-management) <br> - [Serentity/JS](https://github.com/vanHeemstraSystems/test-management) |
 | Time Management (TMM) | - [Time Management](https://github.com/vanHeemstraSystems/time-management) |
-| Tools Management (TLM) | - [Tools Management](https://github.com/vanHeemstraSystems/tools-management) |
+| Tools Management (TLM) | - [IT-Tools.tech](https://github.com/vanHeemstraSystems/tools-management) |
 | Value Stream Management (VSM) | - [Flow Framework](https://github.com/vanHeemstraSystems/value-stream-management) |
 | Visualization Management (VZM) | - [Flourish](https://github.com/vanHeemstraSystems/visualization-management) |
 | Web Server Management (WSM) | - [Caddy Server](https://github.com/vanHeemstraSystems/web-server-management) |
