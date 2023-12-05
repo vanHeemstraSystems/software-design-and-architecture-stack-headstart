@@ -36,7 +36,7 @@ Layers
 | Artifact Management (ARM) | - [Harbor](https://github.com/vanHeemstraSystems/harbor-headstart) <br> - [Docker Registry](https://docs.docker.com/registry/) |
 | Automation Management (ATM) | - [Home Assistant](https://github.com/vanHeemstraSystems/automation-management) |
 | Bluetooth Management (BTM) | - [Web Bluetooth API](https://github.com/vanHeemstraSystems/bluetooth-management) |
-| Bookmark Management (BMM) | - [LinkDing](https://github.com/vanHeemstraSystems/bookmark-management) <br> [Linkwarden](https://github.com/vanHeemstraSystems/bookmark-management) |
+| Bookmark Management (BMM) | - [LinkDing](https://github.com/vanHeemstraSystems/bookmark-management) <br> - [Linkwarden](https://github.com/vanHeemstraSystems/bookmark-management) |
 | Budget Management (BUM) | - [You Need A Budget](https://github.com/vanHeemstraSystems/budget-management) |
 | Build Management (BDM) | - [Basel](https://github.com/vanHeemstraSystems/build-management) |
 | Business Applications Management (BAM) | - [Budibase](https://github.com/vanHeemstraSystems/budibase-headstart) |
