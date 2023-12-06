@@ -12,7 +12,7 @@ See also: Commands and Events:
 
 https://github.com/vanHeemstraSystems/commands-and-events
 
-![Software Design   Architecture Stack - Layers](https://github.com/vanHeemstraSystems/software-design-and-architecture-stack-headstart/assets/1499433/7942616d-c4bc-4452-b899-e4f825b6ce6f)
+![Software Design   Architecture Stack - Layers](https://github.com/vanHeemstraSystems/software-design-and-architecture-stack-headstart/assets/1499433/78e3c2db-8d06-4116-a79a-63d727ec849e)
 
 Layers
 
@@ -79,6 +79,7 @@ Layers
 | Requirements Management (RQM) | - [OpenReq](https://github.com/vanHeemstraSystems/openreq-headstart) <br> - [Requirements Management](https://github.com/vanHeemstraSystems/requirements-management) |
 | Sales Management (SLM) | - [Close](https://github.com/vanHeemstraSystems/sales-management) |
 | Scene Management (SCM) | - [IFC.js](https://github.com/vanHeemstraSystems/scene-management) |
+| Snippet Management (SNM) | - [Snut](https://github.com/vanHeemstraSystems/snippet-management) |
 | Task Management (TKM) | - [Super Productivity](https://github.com/vanHeemstraSystems/task-management) |
 | Test Management (TSM) | - [Robot Framework](https://github.com/vanHeemstraSystems/test-management) <br> - [Serentity/JS](https://github.com/vanHeemstraSystems/test-management) |
 | Time Management (TMM) | - [Time Management](https://github.com/vanHeemstraSystems/time-management) |
