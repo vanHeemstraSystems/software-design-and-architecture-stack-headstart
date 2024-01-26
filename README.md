@@ -12,7 +12,7 @@ See also: Commands and Events:
 
 https://github.com/vanHeemstraSystems/commands-and-events
 
-![Software Design   Architecture Stack - Layers](https://github.com/vanHeemstraSystems/software-design-and-architecture-stack-headstart/assets/1499433/957ade09-d838-4c2d-88c0-d8feded6ce8b)
+![Software Design   Architecture Stack - Layers](https://github.com/vanHeemstraSystems/software-design-and-architecture-stack-headstart/assets/1499433/f2ce4007-d84f-4842-8c9c-a033c3a04d82)
 
 Layers
 
@@ -74,6 +74,7 @@ Layers
 | Problem Solving Management (PSM) | - [Dragon Master](https://github.com/vanHeemstraSystems/problem-solving-management) |
 | Process Mining Management (PMM) | - [ProM](https://github.com/vanHeemstraSystems/prom-headstart) |
 | Project Management (PJM) | - [Redmine](https://github.com/vanHeemstraSystems/redmine-headstart) |
+| Proxy Management (PXM) | - [NGRok](https://github.com/vanHeemstraSystems/proxy-management) |
 | Relationship Management (RSM) | - [Monica](https://github.com/vanHeemstraSystems/relationship-management) |
 | Release Management (RLM) | - [Plutora](https://github.com/vanHeemstraSystems/release-management) |
 | Requirements Management (RQM) | - [OpenReq](https://github.com/vanHeemstraSystems/openreq-headstart) <br> - [Requirements Management](https://github.com/vanHeemstraSystems/requirements-management) |
