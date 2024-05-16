@@ -40,6 +40,7 @@ Layers
 | Budget Management (BUM) | - [You Need A Budget](https://github.com/vanHeemstraSystems/budget-management) |
 | Build Management (BDM) | - [Basel](https://github.com/vanHeemstraSystems/build-management) |
 | Business Applications Management (BAM) | - [Budibase](https://github.com/vanHeemstraSystems/budibase-headstart) |
+| Business Intelligence Management (BIM) | - [Quary](https://github.com/vanHeemstraSystems/business-intelligence-management) |
 | Business Process Management (BPM) | - [Camunda](https://github.com/vanHeemstraSystems/camunda-headstart) <br> - [FormsFlow.ai](https://github.com/vanHeemstraSystems/business-process-management)|
 | Chat Management (CHM) | - [Chat-Server](https://github.com/vanHeemstraSystems/exo-chat-headstart) |
 | Content Management (CTM) | - [Strapi](https://github.com/vanHeemstraSystems/strapi-headless-cms-headstart) |
